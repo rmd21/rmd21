@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Rushil Dhanuka !!
-- 👀 I’m interested in AI, Cyber Security, Software Development and pretty much anything that consists of coding.
-- 🌱 University Of Manchester student
-- 💞️ I’m looking to collaborate on any challenging and fun projects !!
+- Hi, I’m Rushil Dhanuka !!
+- I’m interested in AI, Cyber Security, Software Development and pretty much anything that consists of coding.
+- University Of Manchester student
+- I’m looking to collaborate on any challenging and fun projects !!
 - Instagram : @dhanukarushil
 
 <!---
