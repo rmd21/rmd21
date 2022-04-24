@@ -7,8 +7,8 @@
 
 ### Connect With Me
 
-[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
+[![website](./img/insta.svg)](https://www.instagram.com/dhanukarushil/#gh-light-mode-only)
+[![website](./img/insta.svg)](https://www.instagram.com/dhanukarushil/#gh-dark-mode-only)
 
 <!---
 rmd21/rmd21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
