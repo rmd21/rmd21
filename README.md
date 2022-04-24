@@ -9,6 +9,18 @@
 
 [![website](./img/insta.svg)](https://www.instagram.com/dhanukarushil/#gh-light-mode-only)
 [![website](./img/insta.svg)](https://www.instagram.com/dhanukarushil/#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin.svg)](https://linkedin.com#gh-light-mode-only)
+[![website](./img/linkedin.svg)](https://linkedin.com#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/mail.svg)]((mailto:rushil.dhanuka@student.manchester.ac.uk))
+&nbsp;&nbsp;
+[![website](./img/twitter.svg)](https://twitter.com#gh-light-mode-only)
+[![website](./img/twitter.svg)](https://twitter.com#gh-dark-mode-only)
+
+
+
+
 
 <!---
 rmd21/rmd21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
