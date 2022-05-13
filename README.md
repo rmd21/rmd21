@@ -2,8 +2,8 @@
 - I’m currently working on Web Developmemnt and Data Science projects.
 - I'm currently learning everything !! 
 - I'm a First Year Comp Sci Undergrad at University of Manchester
-- I’m looking forward to contribute more on open source projects !!
-- Fun fact : I love taking photos and playing sports. 
+- I’m looking forward to contributing more on open source projects !!
+- Fun fact : I love taking photos and travelling around the world. 
 
 ### Connect With Me
 
