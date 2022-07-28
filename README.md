@@ -10,8 +10,8 @@
 [![website](./img/insta.svg)](https://www.instagram.com/dhanukarushil/#gh-light-mode-only)
 [![website](./img/insta.svg)](https://www.instagram.com/dhanukarushil/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin.svg)](https://linkedin.com#gh-light-mode-only)
-[![website](./img/linkedin.svg)](https://linkedin.com#gh-dark-mode-only)
+[![website](./img/linkedin.svg)](https://www.linkedin.com/in/rushildhanuka/#gh-light-mode-only)
+[![website](./img/linkedin.svg)](https://www.linkedin.com/in/rushildhanuka/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![Email](./img/mail.svg)]((mailto:rushil.dhanuka@student.manchester.ac.uk))
 &nbsp;&nbsp;
