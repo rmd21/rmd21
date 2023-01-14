@@ -1,7 +1,8 @@
 ## Hi there, I’m Rushil Dhanuka !!
-- I’m currently working on Web Developmemnt and Data Science projects.
+- I’m currently working on Software Development and Artificial Intelligence projects.
+- Enthusiastic and passionate about Cyber Security and specifically Pen Testing.
 - I'm currently learning everything !! 
-- I'm a First Year Comp Sci Undergrad at University of Manchester
+- I'm a Second Year Comp Sci Undergrad at University of Manchester
 - I’m looking forward to contributing more on open source projects !!
 - Fun fact : I love taking photos and travelling around the world. 
 
