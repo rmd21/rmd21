@@ -1,8 +1,7 @@
 ## Hi there, I’m Rushil Dhanuka !!
-- I'm a Final Year BSc Comp Sci Student at the University of Manchester
-- Enthusiastic and passionate about Cyber Security and Ethical Hacking.
-- Researching about Zigbee and sniffing wireless technology appliances. 
-- Part-time photographer and world traveler. 
+- Computer Science graduate from University of Manchester.
+- Cyber Security and Offensive Sec Enthusiast.
+- No, I cannot help you hack into your friend's Instagram. 
 
 ### Connect With Me
 
